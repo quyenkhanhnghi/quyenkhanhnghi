@@ -2,11 +2,12 @@
 I'm a  student pursuing a Bachelor of Science (Tech) with a major in Software Development at Tampere University, where my passion for technology and innovation is at the heart of my academic journey.
 
 Some of my spare time tinkering. Check it outtt my projects 🌱🌱🌱
-- Farm Rest API
-- Sandwich
+- [Farm Rest API](https://github.com/quyenkhanhnghi/Farm-RestAPI)
+- [Sandwich](https://github.com/quyenkhanhnghi/Sandwich)
 - [TravelTunes](https://travel-tunes-client-quyenkhanhnghi-quyenkhanhnghis-projects.vercel.app/)
-- TaskFlow
+- [TaskFlow](https://github.com/quyenkhanhnghi/Task-Flow)
 - [Wolfbyte](https://wolfbyte.vercel.app/)
+- [TerraClick](https://github.com/quyenkhanhnghi/TerraClick)
 
   ---
 
