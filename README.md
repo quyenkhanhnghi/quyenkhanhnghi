@@ -1,5 +1,5 @@
 ### Hi, I'm Nghi Quyen 👋 [Click to check my Portfolio](https://nghi-quyen5.webnode.page/)
-I'm a  student pursuing a Bachelor of Science (Tech) with a major in Software Development at Tampere University, where my passion for technology and innovation is at the heart of my academic journey.
+I'm a student pursuing a Master of Science (Tech) with a major in Software Development at Tampere University, where my passion for technology and innovation is at the heart of my academic journey.
 
 Some of my spare time tinkering. Check it outtt my projects 🌱🌱🌱
 - [Farm Rest API](https://github.com/quyenkhanhnghi/Farm-RestAPI)
